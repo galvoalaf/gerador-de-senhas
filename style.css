@@ -2,7 +2,7 @@
 
 :root {
     --branco: white;
-    --cor-de-fundo:#00262e;;
+    background-image: url(makita.jpeg);
     --fundo-senha: #004d46;;
     --fundo-texto: #004d46;
     --borda: #00ffb1;
